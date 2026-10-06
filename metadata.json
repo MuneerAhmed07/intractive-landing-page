@@ -1,0 +1,6 @@
+{
+  "name": "Power Crunch - Premium Canned Beverage",
+  "description": "Interactive high-end landing page for Power Crunch canned beverage featuring dynamic flavor transitions, custom palettes, and smooth motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
